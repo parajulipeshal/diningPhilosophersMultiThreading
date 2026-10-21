@@ -8,7 +8,7 @@ class Program
     static int[] owners = { -1, -1, -1, -1, -1 };
     static object printLock = new object();
 
-    static int version = 1; // Change to 1, 2, or 3
+    static int version = 1; // change thisssssss
 
     static void Main()
     {
