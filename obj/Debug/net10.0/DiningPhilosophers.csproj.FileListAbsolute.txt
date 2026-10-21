@@ -1,0 +1,14 @@
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\bin\Debug\net10.0\DiningPhilosophers.exe
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\bin\Debug\net10.0\DiningPhilosophers.deps.json
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\bin\Debug\net10.0\DiningPhilosophers.runtimeconfig.json
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\bin\Debug\net10.0\DiningPhilosophers.dll
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\bin\Debug\net10.0\DiningPhilosophers.pdb
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\obj\Debug\net10.0\DiningPhilosophers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\obj\Debug\net10.0\DiningPhilosophers.AssemblyInfoInputs.cache
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\obj\Debug\net10.0\DiningPhilosophers.AssemblyInfo.cs
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\obj\Debug\net10.0\DiningPhilosophers.csproj.CoreCompileInputs.cache
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\obj\Debug\net10.0\DiningPhilosophers.dll
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\obj\Debug\net10.0\refint\DiningPhilosophers.dll
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\obj\Debug\net10.0\DiningPhilosophers.pdb
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\obj\Debug\net10.0\DiningPhilosophers.genruntimeconfig.cache
+C:\Users\peshal.parajuli\Desktop\DiningPhilosophers\obj\Debug\net10.0\ref\DiningPhilosophers.dll
